@@ -1,3 +1,3 @@
-## modulomaps
+## Modulomaps
 
 Coming soon.
